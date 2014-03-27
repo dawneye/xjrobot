@@ -4,12 +4,8 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada910f0-5340-41c8-8168-5e64cbe47707" name="Default" comment="修改了请求顺序&#10;在maven添加了log4j，移动了资源文件位置">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/resources/log4j.properties" />
-      <change type="DELETED" beforePath="D:\projects\xjRobot\xjrobot\robot\lib\log4j-1.2.13.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robot/pom.xml" afterPath="$PROJECT_DIR$/robot/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robot/robot.iml" afterPath="$PROJECT_DIR$/robot/robot.iml" />
+    <list default="true" id="ada910f0-5340-41c8-8168-5e64cbe47707" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\projects\xjRobot\xjrobot\robot\src\main\java\webconfig.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MOVED" beforePath="D:\projects\xjRobot\xjrobot\robot\src\main\java\log4j.properties" afterPath="$PROJECT_DIR$/out/production/httpclientdemo/log4j.properties" />
     </list>
@@ -75,22 +71,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GameClientInit.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GameClientInit.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="14" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0" vertical-offset="479" max-vertical-offset="3496">
+            <state line="31" column="23" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.72422683" vertical-offset="308" max-vertical-offset="3496">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/robot/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="57" selection-start="644" selection-end="644" vertical-scroll-proportion="0.4800995" vertical-offset="92" max-vertical-offset="551">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -648,31 +635,35 @@
       <created>1395929720322</created>
       <updated>1395929720322</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改了请求顺序&#10;在maven添加了log4j，移动了资源文件位置">
+      <created>1395934066518</created>
+      <updated>1395934066518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="512" y="45" width="341" height="638" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="512" y="45" width="341" height="638" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962963" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3197492" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1016,19 +1007,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java">
+    <entry file="file://$PROJECT_DIR$/robot/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="14" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0" vertical-offset="479" max-vertical-offset="3496">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="3" column="14" selection-start="69" selection-end="69" vertical-scroll-proportion="0.14214464" vertical-offset="0" max-vertical-offset="551">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/robot/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="57" selection-start="644" selection-end="644" vertical-scroll-proportion="0.4800995" vertical-offset="92" max-vertical-offset="551">
-          <folding />
+        <state line="31" column="23" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.72422683" vertical-offset="308" max-vertical-offset="3496">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
