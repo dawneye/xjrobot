@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/httpclientdemo/httpclientdemo.iml" filepath="$PROJECT_DIR$/httpclientdemo/httpclientdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robot/robot.iml" filepath="$PROJECT_DIR$/robot/robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclientdemo/socketclientdemo.iml" filepath="$PROJECT_DIR$/socketclientdemo/socketclientdemo.iml" />
+    </modules>
+  </component>
+</project>
+

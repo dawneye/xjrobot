@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/HttpClientHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/interfaces/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/interfaces/LastedJson.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/interfaces/VersionInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/util/ConfigManager.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+
