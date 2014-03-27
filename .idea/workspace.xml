@@ -4,59 +4,9 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada910f0-5340-41c8-8168-5e64cbe47707" name="Default" comment="init commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/commons-beanutils.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-codec-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/commons-collections-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/commons-lang.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/commons-logging-4.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/ezmorph-1.0.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/json-lib-2.3-jdk15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/junit.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/log4j-1.2.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/org.hamcrest.core_1.1.0.v20090501071000.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/lib/proxool-0.8.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/CRC32Util.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/ChineseUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/interfaces/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/util/ConfigManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/util/Constant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/DateFormater.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/unit/GameClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/unit/GamePlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/unit/GameScene.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/util/HtmlParserUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/HttpClientHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/HttpClientHelperImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/HttpHostnameVerifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/HttpParm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/HttpRsp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/HttpX509TrustManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/interfaces/LastedJson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/util/RandomDATAUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/util/TimeUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/interfaces/VersionInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/robot.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sandman.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robot/src/main/java/webconfig.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xjrobot.iml" />
+    <list default="true" id="ada910f0-5340-41c8-8168-5e64cbe47707" name="Default" comment="init commit&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java" afterPath="$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xjrobot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -123,7 +73,7 @@
       <file leaf-file-name="GameClientInit.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="0" selection-start="3776" selection-end="3776" vertical-scroll-proportion="0.43386245" vertical-offset="1223" max-vertical-offset="2014">
+            <state line="73" column="4" selection-start="3780" selection-end="3780" vertical-scroll-proportion="0.43386245" vertical-offset="1223" max-vertical-offset="2014">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -895,6 +845,11 @@
       <created>1394268873302</created>
       <updated>1394268873302</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1395929383536</created>
+      <updated>1395929383536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1267,7 +1222,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/robot/src/main/java/org/dawneye/xjrobot/service/GameClientInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="0" selection-start="3776" selection-end="3776" vertical-scroll-proportion="0.43386245" vertical-offset="1223" max-vertical-offset="2014">
+        <state line="73" column="4" selection-start="3780" selection-end="3780" vertical-scroll-proportion="0.43386245" vertical-offset="1223" max-vertical-offset="2014">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
